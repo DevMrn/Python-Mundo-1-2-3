@@ -1,0 +1,16 @@
+Ordem de procedência dos Operadores Aritméticos
+
+1 - ()
+2 - **
+3 - *, /, //, %
+4 - +, -
+
+end = ''  -  serve para continuar a linha
+
+ver sobre tipos primitivos depois
+
+("""cria um comentario de multiplas linhas""")
+
+apenas o 'import' traz todas as coisas, com o 'from' apenas uma coisa
+
+se eu der print("""abc""") ele imprime um texto grande igual acontece com os comentarios
